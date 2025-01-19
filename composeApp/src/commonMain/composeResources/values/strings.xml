@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TransferApp</string>
+    <string name="header">Send funds</string>
+    <string name="header_question">How much do you want to send?</string>
+    <string name="send_funds_label">Send funds</string>
+    <string name="balance">Balance: </string>
+    <string name="balance_amount">€2,340.00</string>
+    <string name="available_balance">Available Balance: </string>
+    <string name="available_balance_amount">€1,700.50</string>
+    <string name="recipient_label">Recipient gets</string>
+    <string name="exchange_header">Estimated exchange rate</string>
+    <string name="rate">1 EUR = 3.61206 ILS (1 ILS = 0,28 EUR)</string>
+    <string name="exchange_explanation">Exchange rates are real time and mid-market. The values provided are estimates and may change at the time of actual execution.</string>
+    <string name="transfer_options">Transfer Options</string>
+    <string name="regular">Regular</string>
+    <string name="express">Express (+€50)</string>
+    <string name="purpose">Purpose</string>
+    <string name="payment_purpose">Payment Purpose</string>
+    <string name="supported_documents">Supported Documents:</string>
+    <string name="upload_documents">UPLOAD DOCUMENT</string>
+    <string name="uploaded_documents">Uploaded %1$d documents</string>
+    <string name="file_types">File types allowed: JPEG, JPG, PNG, PDF, DOC, DOCX.</string>
+    <string name="limitations">* Up to 10 files allowed.</string>
+    <string name="beneficiary_label">Save Beneficiary</string>
+    <string name="agree_statement">By selecting the checkbox below, I acknowledge and agree that Wittix UAB and/or its subsidiaries ("WTX") operate solutions that facilitate financial transactions in compliance with applicable regulations. I also confirm that I have read and understood the terms and conditions associated with these services. Furthermore, I accept full responsibility for the accuracy of the information provided and consent to the processing of my personal data as outlined in the privacy policy.</string>
+    <string name="read_more">Read more</string>
+    <string name="read_less">Close more</string>
+    <string name="preview_transfer">Transfer Review</string>
+    <string name="settings">Settings</string>
+    <string name="debit_cards">Debit Cards</string>
+    <string name="statement">Statement</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="construction">Under construction!</string>
+    <string name="amount">Amount</string>
+    <string name="eur">EUR</string>
+    <string name="ils">ILS</string>
+    <string name="usd">USD</string>
+</resources>
